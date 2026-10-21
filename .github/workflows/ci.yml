@@ -2,7 +2,7 @@
 # then Push the images to DockerHub 
 
     working-directory: frontend
-name: CI
+  name: CI
 
 on:
   push:
